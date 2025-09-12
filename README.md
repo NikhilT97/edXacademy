@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="  "><img src="https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge"></a>
-  <a href="https://github.com/"><img src="https://img.shields.io/badge/GitHub-Repo-black?style=for-the-badge&logo=github"></a>
+  <a href="https://github.com/NikhilT97/edXacademy"> <img src="https://img.shields.io/badge/GitHub-Repo-black?style=for-the-badge&logo=github"></a>
 </p>
 
 <p align="center">
@@ -42,7 +42,7 @@
 ## 📸 Preview
 
 <p align="center">
-  <img src="  " alt="edXacademy Dashboard" />
+  <img src="image.png" alt="edXacademy Dashboard" />
 </p>
 
 
