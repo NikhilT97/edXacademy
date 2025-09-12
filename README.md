@@ -1,4 +1,4 @@
-<h1 align="center">🎓edXacademy – Learning Courses</h1>
+<h1 align="center">🎓edXacademy – Learn at your own pace</h1>
 
 <p align="center">
   <a href="  "><img src="https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge"></a>
@@ -29,13 +29,13 @@
 
 | Frontend | Styling | State | Animations | Backend Ready |
 |----------|---------|-------|------------|---------------|
-| React.js | Tailwind CSS | Context API | Framer Motion | Node.js + Express + MongoDB |
+| React.js | Tailwind CSS | Context API | Framer Motion |
 
 ---
 
 ## 🌍 Live Demo
 
-👉 **Check it here:** [edXacademy Live](https://transcendent-centaur-6f5f65.netlify.app/)  
+👉 **Check it here:** [edXacademy Live](https://edxacademy.netlify.app/)  
 
 ---
 
