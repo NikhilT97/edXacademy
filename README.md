@@ -29,7 +29,7 @@
 
 | Frontend | Styling | State | Animations | Backend Ready |
 |----------|---------|-------|------------|---------------|
-| React.js | Tailwind CSS | Context API | Framer Motion |
+| React.js | Tailwind CSS | Context API | Framer Motion |	Node.js + Express + MongoDB |
 
 ---
 
